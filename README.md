@@ -24,7 +24,9 @@ You can then run `npm run test` to execute Jest.
 
 # Hosted versions
 
-I will host on Heroku, URL TBC and will be added here shortly.
+I will host on Heroku, it is available for online testing. [Click Here to Access](https://pen-bee.herokuapp.com/)
+
+URL: `https://pen-bee.herokuapp.com/`
 
 # Other Notes.
 
