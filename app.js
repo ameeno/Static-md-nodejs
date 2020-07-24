@@ -1,7 +1,7 @@
 const express = require("express"); // server.
 const app = express();
 const fs = require("fs"); //for reading files
-const port = 80;
+const port = process.env.PORT || 3000;
 const template = "template.html"; // template filename.
 
 module.exports = app;
