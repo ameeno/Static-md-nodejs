@@ -1,0 +1,30 @@
+{
+  "name": "current-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js",
+    "test": "jest --forceExit --runInBand"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "showdown": "^1.9.1"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true,
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "nodemon": "^1.19.0",
+    "path": "^0.12.7",
+    "supertest": "^4.0.2"
+  }
+}
