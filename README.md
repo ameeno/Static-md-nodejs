@@ -1,6 +1,6 @@
 # Pension-Bee Coding sprint.
 
-This is a static file app that renders HTML from markup.
+This is a static file app that renders HTML from markdown.
 
 Libraries used for this project are: Showdown, Express, fs.
 for dev/testing I am using Jest + Supertest with Nodemon.
