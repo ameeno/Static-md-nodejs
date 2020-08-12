@@ -1,4 +1,4 @@
-# Pension-Bee Coding sprint.
+# Coding sprint.
 
 This is a static file app that renders HTML from markdown.
 
@@ -24,9 +24,9 @@ You can then run `npm run test` to execute Jest.
 
 # Hosted versions
 
-I will host on Heroku, it is available for online testing. [Click Here to Access](https://pen-bee.herokuapp.com/)
+I will host on Heroku, it is available for online testing. [Click Here to Access](https://statmd.netlify.app/)
 
-URL: `https://pen-bee.herokuapp.com/`
+URL: `https://statmd.netlify.app/`
 
 # Other Notes.
 
